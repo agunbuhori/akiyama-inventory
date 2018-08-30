@@ -1,0 +1,4 @@
+/protected/vendor
+/protected/composer.json
+/protected/composer.lock
+/protected/.env
